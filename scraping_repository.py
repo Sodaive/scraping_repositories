@@ -2,7 +2,7 @@ import requests,re
 from bs4 import BeautifulSoup
 
 url = 'https://github.com/{}'
-username = str(input('Enter your username: '))
+username = str(input('Enter GitHub username: '))
 
 r = requests.get(url.format(username), params={'tab':'repositories'})
 
