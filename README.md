@@ -30,4 +30,15 @@ pip install -r requirements.txt
 Enter a GitHub username:
 
 ```text
+Input:
 Enter GitHub username: octocat
+
+Output:
+Spoon-Knife HTML 13994
+Hello-World Unknown 3779
+linguist Ruby 757
+octocat.github.io CSS 1151
+git-consortium Unknown 603
+boysenberry-repo-1 Unknown 473
+hello-worId Unknown 791
+test-repo1 Unknown 482
